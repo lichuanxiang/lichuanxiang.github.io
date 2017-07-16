@@ -1,6 +1,6 @@
 # Francis Li
 
-Currently I am a second year graduate student of [Department of Computer Science and Technology](http://www.cs.sdu.edu.cn/) in [Shandong University](http://www.sdu.edu.cn/) and a member of [MIMA Group](mima.sdu.edu.cn) , led by professor [Xin-Shun Xu](http://mima.sdu.edu.cn/Members/~xinshunxu/).
+Currently I am a second year graduate student of Department of Computer Science and Technology in Shandong University and a member of MIMA Group, led by professor Xin-Shun Xu.
 
 
 ## Education
