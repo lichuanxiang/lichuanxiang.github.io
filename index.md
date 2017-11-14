@@ -9,7 +9,7 @@ I received my B.S. degree in Computer Science and Technology in June 2016 from S
 
 ## Research Interest
 
-I am interested in Machine Learning. Currently I am focusing on the subfields of Deep Learning and Hashing Research.. 
+I am interested in Machine Learning. Currently I am focusing on the subfields of Deep Learning and Hashing Research.
 
 ## Publication
 
