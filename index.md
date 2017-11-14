@@ -13,6 +13,8 @@ I am interested in Machine Learning. Currently I am focusing on the subfields of
 
 ## Publication
 
+Zhen-Duo Chen, Wan-Jin Yu, Chuan-Xiang Li, Liqiang Nie and Xin-Shun Xu*. Dual Deep Neural Networks Cross-modal Hashing. AAAI Conference on Artificial Intelligence (AAAI'18), 2018. (Accepted)
+
 Peng-Fei Zhang, Chuan-Xiang Li, Meng-Yuan Liu, Liqiang Nie and Xin-Shun Xu*. Semi-Relaxation Supervised Hashing for Cross-Modal Retrieval. ACM International Conference on Multimedia (MM'17), 2017. (Accepted)
 
 Junjie Huang Hua, Rui Yang, Chuan-Xiang Li, Shan-Qing Guo, Xin-Shun Xu*. Supervised Cross-modal Hashing Without Relaxation, IEEE International Conference on Multimedia Expo (ICME'17), 2017. (Accepted)
