@@ -4,6 +4,8 @@ layout: article
 key: jekyll_editor_tools
 ---
 
+<!--more-->
+
 jekyll writer: [http://jekyllwriter.com/](http://jekyllwriter.com/)
 
 chrome extension: [jekyll editor](https://chrome.google.com/webstore/detail/jekyll-editor/dfdkgbhjmllemfblfoohhehdigokocme/related)
