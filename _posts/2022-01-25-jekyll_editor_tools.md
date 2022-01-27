@@ -2,6 +2,8 @@
 title: jekyll编辑工具
 layout: article
 key: jekyll_editor_tools
+tags: Jekyll
+pageview: false
 ---
 
 <!--more-->
