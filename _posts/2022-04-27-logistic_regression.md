@@ -1,10 +1,9 @@
 ---
 title: LR小结
 layout: article
-tags:
-  - 'sigmoid logistic regression'
+tags: 机器学习 LR
 ---
-
+部分参考[刘建平博客](https://www.cnblogs.com/pinard/p/6029432.html)，此处只为备忘。
 <!--more-->
 
 ## 名称来源：
