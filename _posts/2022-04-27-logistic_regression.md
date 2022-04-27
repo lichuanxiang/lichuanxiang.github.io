@@ -3,8 +3,6 @@ title: LR小结
 layout: article
 tags:
   - 'sigmoid logistic regression'
-published: false
-category: 
 ---
 
 <!--more-->
