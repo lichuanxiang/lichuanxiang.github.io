@@ -7,7 +7,7 @@ published: true
 ---
 For the robbyrussel theme, update the config file and modify the "%c" to "%d"  
 
-```javascript
+```javascript 
 vim ~/.oh-my-zsh/themes/robbyrussell.zsh-theme
 ```
-![zsh_config.png]({{site.baseurl}}/_posts/zsh_config.png)
+![zsh_config.png](./zsh_config.png)
